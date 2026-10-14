@@ -1,0 +1,29 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "수준1": {
+        "id": "수준1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDUwNjA1MDUwNTA1MDUwNTA1MDEwMTAxMDUwNjAxMDEwNjAxMDYwNjA2MDYwNjA1MDUwNTA2MDYwNjA2MDEwNTA2MDUwNTA1MDUwNTA1MDUwNTA1MDUwNTAxMDYwNTA1MDYwNjA1MDUwNTA1MDUwNTA2MDUwMTA1MDUwNjAxMDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwMTA2MDcwNzA3MDUwNTA1MDUwNTA1MDUwNTA1MDEwNTA1MDcwNDA0MDQwNzA1MDUwNTA1MDUwNjA1MDUwNjA1MDUwNzA0MDMwNDA3MDUwNTA1MDYwNjA1MDYwMTA2MDEwMTA3MDIwNDAyMDcwNTA2MDEwMTA2MDUwMTAxMDUwNjA1MDYwNzA3MDcwNTA1MDUwNTA1MDYwNTAxMDUwNTA2MDUwNjA2MDUwNjA1MDUwNTA1MDUwMTA1MDEwNTA1MDYwNjAxMDUwNTA2MDYwMTAxMDYwMTA1MDUwNTA1MDEwNjA1MDYwNTAxMDEwMTAxMDUwNTA1MDUwNjA1MDUwNjA1MDEwNjA1MDUwMTA1MDUwNTA1MDUwNTA1MDUwNTA2MDYwMTA2MDYwNjA2MDEwNjA2MDYwNTA1MDEwNjA2MDEwMTAxMDEwNTA2MDUwNTAxMDEwNTA1MDEwNTA1MDUwNTAxMDAwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDAwMDIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMDIwMDAwMDAwMDAwMjAwMDIwMDAwMDAwMDAwMDIwMDAyMDAwMDAwMDAwMDAyMDAwMjAwMDAwMDAwMDAwMDAyMjAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tileDarkGrass3",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tileGrass3",
+            "sprites.builtin.forestTiles4",
+            "sprites.vehicle.roadHorizontal"
+        ],
+        "displayName": "수준1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
